@@ -40,8 +40,7 @@ pertemuan-05/
 
 - **Elemen semantik:** `header`, `nav`, `main`, `aside`, `section`, `article`, dan `footer`.
 - **Layout:** CSS Grid untuk layout utama (sidebar + konten), hero, tentang, dan card menu; Flexbox untuk header, navbar, sidebar, dan footer.
-- **Gambar:** 5 gambar di folder `img/`, dipasang dengan `<img>` dan `object-fit: cover` agar proporsi terjaga. Foto hero, tentang, dan menu memakai rasio yang sama (4:3) supaya ukurannya seragam, sedangkan logo memakai `object-fit: contain`.
-- **Aksesibilitas gambar:** semua gambar punya `alt` yang menjelaskan isinya, serta atribut `width`/`height` agar halaman tidak bergeser saat gambar dimuat.
+- **Gambar:** 5 gambar di folder `img/`, dipasang dengan `<img>` dan `object-fit: cover` agar proporsi terjaga.
 - **Media query:** `@media (max-width: 900px)` untuk tablet dan `@media (max-width: 640px)` untuk smartphone.
 
 ## Screenshot
