@@ -47,11 +47,11 @@ pertemuan-05/
 
 ### Tampilan Desktop
 
-![Tampilan desktop company profile Warkop Polim] <img width="670" height="932" alt="ss-desktop" src="https://github.com/user-attachments/assets/7bad656a-5ce9-49d9-9b89-750d24c0ad55" />
+[Tampilan desktop company profile Warkop Polim] <img width="670" height="932" alt="ss-desktop" src="https://github.com/user-attachments/assets/7bad656a-5ce9-49d9-9b89-750d24c0ad55" />
 
 ### Tampilan Mobile
 
-![Tampilan mobile company profile Warkop Polim] <img width="800" height="5922" alt="ss-mobile" src="https://github.com/user-attachments/assets/6db5ba93-8f8b-42a6-ac6b-8effd193a9dc" />
+[Tampilan mobile company profile Warkop Polim] <img width="800" height="5922" alt="ss-mobile" src="https://github.com/user-attachments/assets/6db5ba93-8f8b-42a6-ac6b-8effd193a9dc" />
 
 ## Ringkasan Solusi
 
